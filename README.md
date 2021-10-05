@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on python and android projects.
-- 📫 How to reach me: @jquinterom or jfredy.quintero@hotmail.com
+- 📫 How to reach me: @jquinterom or jfredyquintero@hotmail.com
 
 <!---
 jquinterom/jquinterom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
