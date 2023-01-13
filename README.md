@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jquinterom
-- 👀 I’m interested in software developer
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android native projects.
 - 📫 How to reach me: @jquinterom
 
 <!---
