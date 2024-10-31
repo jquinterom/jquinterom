@@ -73,7 +73,9 @@ La implementación de la plataforma resultó en:
 - **Tecnólogo en análisis y desarrollo de sistemas de información (ADSI)** – *SENA*  
 
 ## 🔹 Certificaciones
-- **Arquitecturas para Android con Kotlin** – *Udemy*  
+- **Arquitecturas para Android con Kotlin** – *Udemy*
+- **Android avanzado con kotlin** – *Udemy*
+- **Curso testing para Android con JUnit, Mockito, Expresso y TDD** – *Udemy*
 
 ---
 
