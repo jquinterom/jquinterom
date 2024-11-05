@@ -2,7 +2,7 @@
 
 🎓 **Front end | Android | Software Developer**  
 🚀 **Freelancer en Desarrollo Web y Android**  
-💼 **![mrcomondev.pro](https://mrcomondev.pro)**
+💼 **[mrcomondev.pro](https://mrcomondev.pro)**
 
 ---
 
