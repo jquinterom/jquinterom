@@ -81,7 +81,7 @@ La implementación de la plataforma resultó en:
 
 ## 🔹 Contacto
 📫 **Correo:** [jfqm7710@gmail.com](jfqm7710@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/tu-usuario]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/jquinterom))  
+💼 **LinkedIn:** [linkedin.com/in/jquinterom](https://www.linkedin.com/in/jquinterom)  
 🌐 **Portafolio:** [mrcomondev.pro](https://mrcomondev.pro)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes un proyecto interesante en mente.
